@@ -44,6 +44,6 @@ mvn -q exec:java -Dexec.mainClass=ShadowDonkeyKong
 ```
 
 ## 👤 Author
-Chen Yu Lin
-University of Melbourne
+Chen Yu Lin |
+University of Melbourne |
 https://github.com/cy9448
